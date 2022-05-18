@@ -171,3 +171,10 @@ body {
   .mapboxgl-popup-anchor-top > .mapboxgl-popup-tip {
     border-bottom-color: #232c4a;
   }
+  footer {
+    position: absolute;
+    bottom: 0;
+  }
+  .footer-author {
+    padding: 0px 0px 0.5rem 1rem;
+  }
