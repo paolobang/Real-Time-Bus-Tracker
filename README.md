@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h1 align="center">Eye Excercise Project </h1>
+<h1 align="center">Real Time Bus Tracker Project </h1>
 
   <p align="center">
     <br />
@@ -51,7 +51,7 @@
 
 
 
-This is is part of Professional Certificate in Coding: Full Stack Development with MERN by MIT. This project uses Javascript, CSS, HTML and is a web page with two eyes that follow your mouse movement. As you hover your mouse over the screen the two balls elements inside the oval elements follow the mouse cursor, simulating the effect of being followed by a person's eyes.
+This is is part of Professional Certificate in Coding: Full Stack Development with MERN by MIT. This project uses Javascript, CSS, HTML and MapBox Web Services API. The app shows the real time bus tracker in the city of Boston. The marker moves along the streets as the bus would. Also show some relevant information such as a Bus Number, their coordinates and last time location.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -164,4 +164,4 @@ Project Link: [https://github.com/pesorudy/Real-Time-Bus-Tracker](https://github
 [license-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rudyhuaman/
-[product-screenshot]: /assets/screenshot.png
+[product-screenshot]: /assets/screen.gif
