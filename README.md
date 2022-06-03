@@ -33,14 +33,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/pesorudy/Real-Time-Bus-Tracker" ><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/paolobang/Real-Time-Bus-Tracker" ><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://pesorudy.github.io/Real-Time-Bus-Tracker/" target="_blank">View Demo</a>
+    <a href="https://paolobang.github.io/Real-Time-Bus-Tracker/" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/pesorudy/Real-Time-Bus-Tracker/issues">Report Bug</a>
+    <a href="https://github.com/paolobang/Real-Time-Bus-Tracker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/pesorudy/Real-Time-Bus-Tracker/issues">Request Feature</a>
+    <a href="https://github.com/paolobang/Real-Time-Bus-Tracker/issues">Request Feature</a>
   </p>
 </div>
 
@@ -79,7 +79,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/pesorudy/Real-Time-Bus-Tracker.git
+   git clone https://github.com/paolobang/Real-Time-Bus-Tracker.git
    ```
 2. Install NPM packages
    ```sh
@@ -107,7 +107,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Improve css style
 - [ ] Add more effects to the eyes
 
-See the [open issues](https://github.com/pesorudy/Real-Time-Bus-Tracker/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/paolobang/Real-Time-Bus-Tracker/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -145,23 +145,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Rudy Huaman - [@pesorudy](https://twitter.com/pesorudy) - pesorudy@gmail.com
 
-Project Link: [https://github.com/pesorudy/Real-Time-Bus-Tracker](https://github.com/pesorudy/Real-Time-Bus-Tracker)
+Project Link: [https://github.com/paolobang/Real-Time-Bus-Tracker](https://github.com/paolobang/Real-Time-Bus-Tracker)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[contributors-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[forks-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/network/members
-[stars-shield]: https://img.shields.io/github/stars/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[stars-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[issues-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/issues
-[license-shield]: https://img.shields.io/github/license/pesorudy/Real-Time-Bus-Tracker.svg?style=for-the-badge
-[license-url]: https://github.com/pesorudy/Real-Time-Bus-Tracker/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/paolobang/Real-Time-Bus-Tracker.svg?style=for-the-badge
+[contributors-url]: https://github.com/paolobang/Real-Time-Bus-Tracker/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/paolobang/Real-Time-Bus-Tracker.svg?style=for-the-badge
+[forks-url]: https://github.com/paolobang/Real-Time-Bus-Tracker/network/members
+[stars-shield]: https://img.shields.io/github/stars/paolobang/Real-Time-Bus-Tracker.svg?style=for-the-badge
+[stars-url]: https://github.com/paolobang/Real-Time-Bus-Tracker/stargazers
+[issues-shield]: https://img.shields.io/github/issues/paolobang/Real-Time-Bus-Tracker.svg?style=for-the-badge
+[issues-url]: https://github.com/paolobang/Real-Time-Bus-Tracker/issues
+[license-shield]: https://img.shields.io/github/license/paolobang/Real-Time-Bus-Tracker.svg?style=for-the-badge
+[license-url]: https://github.com/paolobang/Real-Time-Bus-Tracker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rudyhuaman/
 [product-screenshot]: /assets/screen.gif
